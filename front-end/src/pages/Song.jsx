@@ -1,5 +1,5 @@
 import React from "react";
-import Player from "../components/Player";
+import Player from "../components/player";
 import { Link, useParams } from "react-router-dom";
 import { songsArray } from "../assets/database/songs";
 import { artistArray } from "../assets/database/artists";
